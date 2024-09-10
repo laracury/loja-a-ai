@@ -12,7 +12,6 @@ function validateForm() {
 
     if (email === "") {
         alert("O campo Email está vazio!");
-        event.preventDefault();
         return false;
     }
 
