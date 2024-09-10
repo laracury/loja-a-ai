@@ -35,5 +35,3 @@ function changeColors() {
 
 // Adiciona o evento de clique ao botão
 document.getElementById('colorButton').addEventListener('click', changeColors);
-
-
